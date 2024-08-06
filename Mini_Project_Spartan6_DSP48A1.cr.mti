@@ -1,0 +1,22 @@
+O:/Digital_Design_Diploma/Projects/Mini_Project/D_FFlop.v {1 {vlog -work work -vopt -stats=none O:/Digital_Design_Diploma/Projects/Mini_Project/D_FFlop.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module D_FFlop
+
+Top level modules:
+	D_FFlop
+
+} {} {}} O:/Digital_Design_Diploma/Projects/Mini_Project/mux_2.v {1 {vlog -work work -vopt -stats=none O:/Digital_Design_Diploma/Projects/Mini_Project/mux_2.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux_2
+
+Top level modules:
+	mux_2
+
+} {} {}} O:/Digital_Design_Diploma/Projects/Mini_Project/mux_4.v {1 {vlog -work work -vopt -stats=none O:/Digital_Design_Diploma/Projects/Mini_Project/mux_4.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux_4
+
+Top level modules:
+	mux_4
+
+} {} {}}
